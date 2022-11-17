@@ -1,0 +1,6 @@
+database:
+  source: postgresql://root:mysecretpassword@postgres:5432/mydatabase?sslmode=disable
+dans:
+  baseURL: http://dev3.dansmultipro.co.id/api
+jwt:
+  secret: 22TUUNBlNAcEM46qYPL6rcCY8MXQmV8E
