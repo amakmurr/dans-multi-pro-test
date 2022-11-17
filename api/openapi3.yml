@@ -210,6 +210,7 @@ components:
             type: object
             required:
               - data
+              - meta
             properties:
               data:
                 $ref: "#/components/schemas/Jobs"
